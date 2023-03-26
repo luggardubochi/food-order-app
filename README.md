@@ -12,7 +12,7 @@ Foodie is a project coded by React JS, Redux Toolkit, and styled resonsively by 
 
 ## Demo
 
-Feel free to experience the app from ➡️ [here](https://foodie-delivery-tramnguyenhere.netlify.app/home)
+
 
 ## How to build and run
 
